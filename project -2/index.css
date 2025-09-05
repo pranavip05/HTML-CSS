@@ -1,0 +1,23 @@
+h1{
+    color: rgb(246, 87, 113);
+}
+
+p{
+    color: rgb(188, 132, 240);
+    font-size: large;
+}
+body{
+    background-color:rgb(3, 77, 109);
+}
+#box{
+    background-color: aqua;
+    width: 150px;
+}
+
+.heading{
+    color: rgb(70, 186, 59);
+}
+button{
+    background-color: rgb(220, 103, 209);
+}
+

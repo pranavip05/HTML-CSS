@@ -1,0 +1,30 @@
+/* div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(225, 22, 56);
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-image: url(cat_image.jpeg);
+    background-size:cover;
+    
+}
+#box2{
+    background-image: url(house_img.jpg);
+    background-size: cover;
+}
+#box3{
+    background-image: url(nature_img.webp);
+    background-size: cover;
+} */
+
+div{
+    height: 200px;
+    width: 200px;
+    background-image: url(nature_img.webp);
+    background-size: cover;
+    color: white;
+    right: 0px;
+    position: fixed;
+}
